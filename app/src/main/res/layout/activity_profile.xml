@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mintCream"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activityProfile.ProfileView">
+
+    <com.sdsmdg.harjot.crollerTest.Croller
+        android:id="@+id/croller"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        app:back_circle_color="#EDEDED"
+
+        app:indicator_color="#0B3C49"
+        app:indicator_width="10"
+        app:is_continuous="true"
+        app:label_color="#000000"
+        app:main_circle_color="#FFFFFF"
+        app:progress_primary_color="#0B3C49"
+        app:progress_secondary_color="#EEEEEE"
+        android:clickable="false"/>
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:id="@+id/log"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/blueSapphire"
+        android:textColor="@color/mintCream"
+        android:text="Log" />
+    <Button
+        android:id="@+id/stats"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="stats"
+        android:background="@color/blueSapphire"
+        android:textColor="@color/mintCream"
+        />
+    <Button
+        android:id="@+id/newMeasurement"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="new measurement"
+        android:background="@color/blueSapphire"
+        android:textColor="@color/mintCream"
+        />
+</LinearLayout>

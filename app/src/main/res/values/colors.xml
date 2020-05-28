@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="russianViolet">#3C1642</color>
+    <color name="xiketic">#11001C</color>
+    <color name="spaceCadet">#151E3F</color>
+    <color name="indigoDye">#0F415A</color>
+    <color name="blueSapphire">#086375</color>
+    <color name="independence">#484D6D</color>
+    <color name="darkSlateBlue">#41337A</color>
+    <color name="turquoiseGreen">#b9e3c6</color>
+    <color name="xanadu">#708d81</color>
+    <color name="mintCream">#F7FFF7</color>
+    <color name="coolGray">#898ca3</color>
+</resources>

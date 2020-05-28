@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="time_of_day">
+        <item name="day">Day</item>
+        <item name="night">Night</item>
+    </string-array>
+    <string-array name="chart_type">
+        <item name="daily_avg">Daily Average</item>
+        <item name="morning_weight">Morning Weights</item>
+        <item name="night_weight">Night Weights</item>
+    </string-array>
+    <string name="app_name">Fitness Project</string>
+    <string name="backBtnTitle">back</string>
+    <string name="weight_change">Weight Change:</string>
+    <string name="changeNo">50%</string>
+    <string name="changeNo2">50%</string>
+    <string name="daily_avg_title">Daily Avg.:</string>
+    <string name="daily_avg_change_title">Daily Avg. Change:</string>
+    <string name="dailyAvgNo">50</string>
+    <string name="weight_kg_hint">Weight (kg)</string>
+    <string name="your_weight_input_title">Your Weight:</string>
+    <string name="day_title">Day</string>
+    <string name="month_title">Month</string>
+    <string name="year_title">Year</string>
+    <string name="time_of_day_title">Time of Day:</string>
+    <string name="submitBtnTitle">submit</string>
+    <string name="weekly_avg_weight">Avg. Weight:</string>
+    <string name="weekly_change_no">50%</string>
+    <string name="weekly_avg_no">50</string>
+    <string name="weekly_average_weight_change">Average Weight Change:</string>
+    <string name="weekly_or_daily">How do you want to receive your results?</string>
+    <string name="dailyDialogBtn">Daily</string>
+    <string name="weeklyDialogBtn">Weekly</string>
+    <string name="fill_all">Please fill all the required fields.</string>
+</resources>
